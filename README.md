@@ -16,4 +16,4 @@ Note: Scripts Tested in Matlab 2017b.
 
 ### Described in detail in:
 
-Tan, Alan, Yew-Soon Ong, Abhishek Gupta, and Chi-Keong Goh. "Multi-Problem Surrogates: Transfer Evolutionary Multiobjective Optimization of Computationally Expensive Problems." IEEE Transactions on Evolutionary Computation (2017).
+Tan, Alan, Ong, Y. S., Gupta, A., & Goh, C. K. (2017). Multi-Problem Surrogates: Transfer Evolutionary Multiobjective Optimization of Computationally Expensive Problems. IEEE Transactions on Evolutionary Computation.
